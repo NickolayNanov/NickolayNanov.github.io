@@ -1,0 +1,44 @@
+.bg-black{
+    background-color: black;
+}
+ 
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.font-div{
+   Width: 30%;
+}
+
+.btn{
+    color: beige;
+}
+
+button.button-front{
+    color: white;
+}
+
+.button-front{
+    color: black;
+}
+
+.button-front:hover{  
+    color: yellow;
+}
+
+.dropdown-menu a{
+    padding: 6%;
+    text-align: center;
+    display: inline;
+}
+
+.download-btn:hover{
+    color: yellow;
+}
+
+@media only screen and (min-width: 1198px){
+        .font-div{
+            padding: 44px 0px!important;
+        }
+}
