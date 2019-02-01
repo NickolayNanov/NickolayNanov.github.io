@@ -34,8 +34,8 @@ button.button-front{
     display: inline;
 }
 
-.download-btn:hover{
-    color: yellow;
+.download-btn{
+    color: wheat;
 }
 
 @media only screen and (min-width: 768px){
