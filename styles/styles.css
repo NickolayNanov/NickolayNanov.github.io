@@ -9,6 +9,7 @@ img{
 
 .font-div{
    Width: 30%;
+   padding: 16px 32;
 }
 
 .btn{
@@ -37,8 +38,16 @@ button.button-front{
     color: yellow;
 }
 
-@media only screen and (min-width: 1198px){
+@media only screen and (min-width: 768px){
         .font-div{
             padding: 44px 0px!important;
+            width: 30%;
+        }
+}
+
+@media only screen and (min-width: 768px){
+        .button-front{
+            display: block;
+            position: relative;
         }
 }
