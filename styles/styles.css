@@ -38,7 +38,7 @@ button.button-front{
     color: wheat;
 }
 
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 600px){
         .font-div{
             padding: 44px 0px!important;
             width: 30%;
