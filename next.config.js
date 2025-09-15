@@ -1,5 +1,4 @@
 /** @type {import('next').NextConfig} */
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 module.exports = {
 	reactStrictMode: true,
@@ -10,7 +9,5 @@ module.exports = {
 	images: {
 		unoptimized: true
 	},
-	trailingSlash: true,
-	basePath: basePath || undefined,
-	assetPrefix: basePath ? `${basePath}/` : undefined
+	trailingSlash: true
 };
