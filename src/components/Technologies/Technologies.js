@@ -36,8 +36,9 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             C# <br />
-            ASP NET CORE 5 <br />
-            Entity Framework Core 5 <br />
+            .NET <br />
+            ASP NET CORE <br />
+            Entity Framework Core <br />
             MSSQL Server <br />
             SQL <br />
             Relational Databases
@@ -51,11 +52,13 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Others</ListTitle>
           <ListParagraph>
+            Microservice architecture <br />
             Domain-Driven-Design <br />
-            Microservices (In Progress..) <br />
-            Working with large code bases <br />
-            Writing SQL Stored Procedures and Views <br />
-            English CAE
+            Pub/Sub <br />
+            Agile <br />
+            Scrum <br />
+            Jira <br />
+            Team Player
           </ListParagraph>
         </ListContainer>
       </ListItem>

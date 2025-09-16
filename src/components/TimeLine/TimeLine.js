@@ -47,8 +47,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My name is Nikolay Nanov and I am a .NET developer. My home town is Cherven bryag but now I am living in Veliko Tarnovo where I 
-        study Software Engineering for 3th year and I've been working as a .NET developer for 2 years. My hobbies are: crypto, hiking, audio books, cooking, Brazilian Jiu-Jitsu
+        My name is Nikolay Nanov, 25, and I am a senior .NET developer. I am currently located in Veliko Tarnovo, Bulgaria 
+        where I've been working for VSG for the last 6 years growing from junior to senior and exposing myself to different aspects of the 
+        modern development from working on enterprize production projects with monolithic architecture to modern microservices and cloud development. 
+        Hobbies: crypto, trading, hiking, audio books, cooking
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

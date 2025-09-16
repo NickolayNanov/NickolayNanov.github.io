@@ -15,10 +15,11 @@ const Hero = () => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          "Always go forward whatever it takes" - this is my moto and I strive to become part of something that changes the world. Currently 
-          working in the banking IT industry making a banking software for the USA
+          Senior .NET Developer with 6+ years of experience, progressing from Junior to Senior within the same company.
+          Strong background in building and maintaining enterprise-scale applications — from a monolithic .NET Web API to modern
+          .NET microservices on Google Cloud Platform (GCP) using the latest .NET tech stack.
         </SectionText>
-        <Button onClick={() => window.location = 'https://www.facebook.com/niolai.nanov/'}>Learn More</Button>
+        <Button onClick={() => window.location = `${window.location.origin}/#projects`}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
