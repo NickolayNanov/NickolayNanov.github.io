@@ -6,7 +6,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { number: 2, text: 'Projects online'},
   { number: 1000, text: 'Became an assistant at university in the 2nd year', },
-  { number: 18, text: 'Github Followers', },
+  { number: 6, text: 'Years of experience', },
   { number: 12, text: 'Certificates from Softuni', }
 ];
 
